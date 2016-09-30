@@ -2,4 +2,4 @@
 
 Repositorio creado para el curso de github
 
-[Visita mi linkedin] {www.linkedin.com/in/Alioth-Fuentes-Abellas}
+[Visita mi linkedin](http://www.linkedin.com/in/Alioth-Fuentes-Abellas)
